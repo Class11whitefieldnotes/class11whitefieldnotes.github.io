@@ -1,0 +1,45 @@
+h1{
+    background-color: brown;
+    color: chartreuse;
+    text-align: center;
+}
+h3{
+    color: green;
+}
+ul.li{
+    color: orangered;
+    text-decoration: none;
+}
+li{
+    color: red;
+}
+a{
+    color: rgb(255, 72, 0);
+    text-decoration :none;
+}
+footer {
+   color: darkred;
+   text-align:center;
+}
+
+/* css for other subjects  */
+ol{color: brown;
+}
+a{
+    color: darkred;
+    text-decoration: none;
+}
+h2{ 
+    color: rgb(8, 8, 8);
+}
+
+/* css for maths */
+.menu{
+    display: grid;
+    grid-template-columns:repeat(auto-fit, minmax(250px));
+    margin: auto;
+}
+.sub{
+    border: 1px solid rgb(39, 8, 80);
+text-align: center;
+}
