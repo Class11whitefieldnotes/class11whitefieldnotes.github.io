@@ -1,17 +1,28 @@
+body{
+
+        background-image: linear-gradient(to right, orangered , yellow);
+      
+}
+
+
 h1{
     background-color: brown;
     color: chartreuse;
     text-align: center;
+    font-size: 50px;
 }
 h3{
-    color: green;
+    color: gold;
+    
+    height: 27px;
+    width: 77px;
 }
 ul.li{
     color: orangered;
     text-decoration: none;
 }
 li{
-    color: red;
+    color: blue;
 }
 a{
     color: rgb(255, 72, 0);
@@ -23,7 +34,7 @@ footer {
 }
 
 /* css for other subjects  */
-ol{color: brown;
+ol{color: yellow;
 }
 a{
     color: darkred;
@@ -33,7 +44,7 @@ h2{
     color: rgb(8, 8, 8);
 }
 
-/* css for maths */
+/* css for Mathematics Units  */
 .menu{
     display: grid;
     grid-template-columns:repeat(auto-fit, minmax(250px));
@@ -43,3 +54,9 @@ h2{
     border: 1px solid rgb(39, 8, 80);
 text-align: center;
 }
+
+
+h4{
+    color: green;
+}
+/* CSS for Mathematics Topics */
