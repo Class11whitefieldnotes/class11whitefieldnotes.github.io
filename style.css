@@ -80,3 +80,8 @@ h4{
   /* below code is for text allingement for intex.html */
   
   
+.sub:hover{
+    color: gold;
+    background-color: rgb(165, 29, 29);
+}
+
