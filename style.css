@@ -1,6 +1,9 @@
 body{
 
-    background-image: linear-gradient(to right, gold , orangered);
+    background-image:url(BG.png);
+    
+    
+
     
   
 }
@@ -62,6 +65,7 @@ h2{
     font-size: 30px ;
 
 background-color: aqua ;
+opacity: 70%;
 }
 
 
