@@ -137,9 +137,9 @@ button:hover{
 }
 
 .topic{
-    color: rgb(255, 212, 212);
+    color: greenyellow;
     text-align: center;
-    font-size: 10px;
+    font-size: 30px;
 }
 
 .topic a{
@@ -148,4 +148,20 @@ button:hover{
     text-decoration: none;
     font-family: 'Times New Roman';
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
